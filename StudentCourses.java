@@ -1,7 +1,3 @@
-
-
-
-
 public class StudentCourses {
     String[] courseNames = new String[5];  
     int[] marks = new int[5];             
